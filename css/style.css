@@ -1,0 +1,29 @@
+body { 
+  font-family: 'Raleway', sans-serif;
+  background-color: #c0e0de; 
+  color: #162521; 
+}
+
+.image-gallery { 
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  max-width: 90vw; 
+
+
+
+}
+
+h1 { 
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  font-weight: 700; 
+  font-size: 2rem; 
+  margin-top: 2rem; 
+}
+
+h2 { 
+  font-weight: 700; 
+}
+

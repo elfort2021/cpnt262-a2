@@ -23,7 +23,35 @@ h1 {
   margin-top: 2rem; 
 }
 
-h2 { 
-  font-weight: 700; 
+figure {
+padding: 10px; 
 }
 
+
+h2 { 
+  font-weight: 700; 
+  font-size: 0.7rem;
+  
+}
+
+img { 
+  object-fit: cover;
+  max-width: 100%; 
+  width: 20rem; 
+  height: 10rem;
+
+  box-shadow: 2px 2px 2px 2px #4f7cac; 
+
+
+}
+
+img:hover { 
+  opacity: 0.5; 
+  transition: 0.3s; 
+}
+
+figcaption { 
+  max-width: 60ch; 
+  justify-content: center;
+
+}

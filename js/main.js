@@ -104,10 +104,6 @@ for (let i = 0; i < image.length; i++) {
   const figure = document.createElement('figure');
   imageContainer.appendChild(figure);
 
-const caption = document.createElement('h2'); 
-title.innerText = `${image[i].title}`;
-figure.appendChild(caption);
-
 
 //image 
 
@@ -116,6 +112,11 @@ figImage.src = `${image[i].pathURL}`;
 figImage.alt = `${image[i].description}`;
 figImage.style.maxWidth = `${image[i].width}`; 
 figure.appendChild(figImage);
+
+//title 
+const caption = document.createElement('h2'); 
+caption.innerText = `${image[i].title}`;
+figure.appendChild(caption);
 
 // fig caption
 

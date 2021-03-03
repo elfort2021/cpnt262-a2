@@ -1,6 +1,15 @@
-# cpnt262-a2
+# cpnt262-a2 - Dynamic Image Gallery
+## Author: Eleanor Forte, 000841873
 
 
+**Shout Outs** 
+- Swapna, for helping me find the one error in my h2 that was ruining everything and making me want to cry and eat cupcakes.
+- Cry Club: Erica, Kyle and Karen for small errors and general buffonery. Love em. 
+
+
+
+
+## Attributions: 
 - Photo by Filip Kominik (Doorways)
 https://unsplash.com/photos/IHtVbLRjTZU
 

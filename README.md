@@ -6,7 +6,9 @@
 - Swapna, for helping me find the one error in my h2 that was ruining everything and making me want to cry and eat cupcakes.
 - Cry Club: Erica, Kyle and Karen for small errors and general buffonery. Love em. 
 
-
+### Github Links: 
+- Repo: https://github.com/elfort2021/cpnt262-a2
+- Pages: 
 
 
 ## Attributions: 

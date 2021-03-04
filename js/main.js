@@ -127,9 +127,9 @@ for (let i = 0; i < image.length; i++) {
   // is this even showing up? 
   // No it's not, why isn't this showing up. 
 
-  const figcaption = document.createElement('figcaption');
+  const figCaption = document.createElement('figcaption');
   figcaption.innerText = `${image[i].description}`;
-  figure.appendChild(figcaption)
+  figure.appendChild(figCaption)
 };
 
 

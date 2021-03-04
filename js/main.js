@@ -126,9 +126,10 @@ for (let i = 0; i < image.length; i++) {
   // fig caption
   // is this even showing up? 
   // No it's not, why isn't this showing up. 
+  // Update: got er
 
   const figCaption = document.createElement('figcaption');
-  figcaption.innerText = `${image[i].description}`;
+  figCaption.innerText = `${image[i].description}`;
   figure.appendChild(figCaption)
 };
 
